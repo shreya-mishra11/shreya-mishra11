@@ -30,6 +30,18 @@
 
 ---
 
+---
+
+## 👥 Other Projects & Legacy Work
+
+I previously maintained the profile [shreya-mishra](https://github.com/shreya-mishra), which contains additional personal and early-career projects.  
+Due to account access issues, my current and future work now appears here as [shreya-mishra11](https://github.com/shreya-mishra11).
+
+Feel free to browse both profiles for a complete view of my coding journey!
+
+---
+
+
 ## 📊 GitHub Stats
 ![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreya-mishra11&show_icons=true&theme=radical)
 
