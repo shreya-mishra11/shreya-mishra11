@@ -41,12 +41,6 @@ Feel free to browse both profiles for a complete view of my coding journey!
 
 ---
 
-
-## 📊 GitHub Stats
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreya-mishra11&show_icons=true&theme=radical)
-
----
-
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/shreya-mishra-2270901a5)
 - [Email](mailto:shreyamishra040398@gmail.com)
